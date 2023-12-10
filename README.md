@@ -1,7 +1,7 @@
-![Tux, the Linux mascot](https://i.postimg.cc/tCcBdzCc/Gradient-Banner.jpg)
+![Tux, the Linux mascot](https://i.postimg.cc/W3mSZ1wp/front-end-developer.jpg)
 
 ## About Me
-👋 Hi, I'm Junayed Noman, a MERN stack developer. Dedicated to crafting cutting-edge web solutions. 💻 Proficient in `MongoDB`, `Express.js`, `React.js`, and `Node.js`, I specialize in building scalable and user-friendly applications. 🚀 With a passion for clean code and an eye for detail, I thrive on turning ideas into seamless digital experiences.
+👋 Hi, I'm Junayed Noman, a Front-end developer. Dedicated to crafting cutting-edge web solutions. I specialize in building scalable and user-friendly applications. 🚀 With a passion for clean code and an eye for detail, I thrive on turning ideas into seamless digital experiences.
 
 ## Technologies I am expert in
 [![GitHub Streak](https://i.postimg.cc/0jqgptLG/Untitled-design-2.png)](#)
@@ -18,7 +18,7 @@
 ## 👀 Current Overview
 - 🔭 I’m currently working on my own project
 - 🌱 I’m currently learning `next.js`
-- 👯 I’m looking to collaborate on MERN stack projects
+- 👯 I’m looking to collaborate on Front-end projects
 
 ## Some Numbers
 
