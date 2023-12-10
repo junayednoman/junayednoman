@@ -1,4 +1,4 @@
-![Tux, the Linux mascot](https://i.postimg.cc/W3mSZ1wp/front-end-developer.jpg)
+![Tux, the Linux mascot](https://i.postimg.cc/j2jbpksz/Gradient-Banner-3.jpg)
 
 ## About Me
 👋 Hi, I'm Junayed Noman, a Front-end developer. Dedicated to crafting cutting-edge web solutions. I specialize in building scalable and user-friendly applications. 🚀 With a passion for clean code and an eye for detail, I thrive on turning ideas into seamless digital experiences.
