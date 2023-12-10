@@ -1,7 +1,27 @@
 ![Tux, the Linux mascot](https://i.postimg.cc/j2jbpksz/Gradient-Banner-3.jpg)
 
 ## About Me
-👋 Hi, I'm Junayed Noman, a Front-end developer. Dedicated to crafting cutting-edge web solutions. I specialize in building scalable and user-friendly applications. 🚀 With a passion for clean code and an eye for detail, I thrive on turning ideas into seamless digital experiences.
+🤗 Greetings! I'm Junayed Noman, a junior front-end developer with a passion for creating seamless digital experiences. 💻 My meticulous and intuitive approach enables me to design user interfaces that balance functionality with a touch of creativity.
+
+🛠️ Proficient in front-end technologies, I navigate coding challenges with a commitment to constant improvement. My adaptability ensures a quick grasp of emerging technologies, contributing to efficient project outcomes.
+
+### 💪Key strengths:
+
+💥Solid foundation: HTML, CSS, Javascript
+
+👌Responsive design: I build websites that look great on any device
+
+🥷🏻Collaboration ninja: I can work seamlessly with designers & back-end devs
+
+✨Clean code warrior: My code is efficient, readable, and accessible
+
+💡Always learning: I'm eager to explore new technologies and stay ahead of the curve
+
+
+🤝 Collaborative by nature, I bring a thoughtful and communicative approach to team projects. Eager to contribute my technical skills, I'm on the lookout for a dynamic role where I can grow and make meaningful contributions.
+
+Let's connect and explore how I can bring value to your team! 💼💬
+
 
 ## Technologies I am expert in
 [![GitHub Streak](https://i.postimg.cc/0jqgptLG/Untitled-design-2.png)](#)
