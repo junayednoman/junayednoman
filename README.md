@@ -7,15 +7,15 @@
 
 ### 💪Key strengths:
 
-➡️ Solid foundation: HTML, CSS, Javascript
+➡️ **Solid foundation**: HTML, CSS, Javascript
 
-➡️ Responsive design: I build websites that look great on any device
+➡️ **Responsive design**: I build websites that look great on any device
 
-➡️ Collaboration ninja: I can work seamlessly with designers & back-end devs
+➡️ **Collaboration ninja**: I can work seamlessly with designers & back-end devs
 
-➡️ Clean code warrior: My code is efficient, readable, and accessible
+➡️ **Clean code warrior**: My code is efficient, readable, and accessible
 
-➡️ Always learning: I'm eager to explore new technologies and stay ahead of the curve
+➡️ **Always learning**: I'm eager to explore new technologies and stay ahead of the curve
 
 
 🤝 Collaborative by nature, I bring a thoughtful and communicative approach to team projects. Eager to contribute my technical skills, I'm on the lookout for a dynamic role where I can grow and make meaningful contributions.
