@@ -20,9 +20,6 @@
 
 🤝 Collaborative by nature, I bring a thoughtful and communicative approach to team projects. Eager to contribute my technical skills, I'm on the lookout for a dynamic role where I can grow and make meaningful contributions.
 
-Let's connect and explore how I can bring value to your team! 💼💬
-
-
 ## Technologies I am expert in
 [![GitHub Streak](https://i.postimg.cc/0jqgptLG/Untitled-design-2.png)](#)
 
