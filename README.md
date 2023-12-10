@@ -14,6 +14,7 @@
   <a href="mailto:junayednoman05@gmail.com
 " target="_blank"><img src="https://i.postimg.cc/mZz6YzWd/Facebook-4.png" width="160" /></a>
 </p>
+Email: junayednoman05@gmail.com
 
 ## 👀 Current Overview
 - 🔭 I’m currently working on my own project
