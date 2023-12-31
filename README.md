@@ -3,7 +3,7 @@
 # About Me
 🤗 Greetings! I'm Junayed Noman, a Front-end developer with proven skills in crafting seamless user experiences. Working for 1 year in the web sector(with HTML, CSS, and Bootstrap). Recently, I had the opportunity to master the MERN stack. Driven to build responsive and dynamic web interfaces with MERN stack technologies.
 
-Applied expertise in HTML, CSS, and Bootstrap to deliver front-end solutions during a one-year freelance for diverse clients internationally. Collaborated closely with clients to understand and fulfill their unique design requirements. Aiming to contribute to innovative projects at a company making waves.
+Applied expertise in HTML, CSS, and Bootstrap to deliver front-end solutions during a one-year freelance for diverse clients internationally. Collaborated closely with clients to understand and fulfill their unique design requirements.
 
 ### 💪Key strengths:
 
@@ -18,7 +18,7 @@ Applied expertise in HTML, CSS, and Bootstrap to deliver front-end solutions dur
 ➡️ **Always learning**: I'm eager to explore new technologies and stay ahead of the curve
 
 
-🤝 Collaborative by nature, I bring a thoughtful and communicative approach to team projects. Eager to contribute my technical skills, I'm on the lookout for a dynamic role where I can grow and make meaningful contributions.
+🤝 Collaborative by nature, I bring a thoughtful and communicative approach to team projects. Aiming to contribute to innovative projects at a company making waves.
 
 # Technologies I am expert in
 [![GitHub Streak](https://i.postimg.cc/0jqgptLG/Untitled-design-2.png)](#)
