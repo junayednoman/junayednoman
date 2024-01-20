@@ -1,7 +1,7 @@
 ![Tux, the Linux mascot](https://i.postimg.cc/j2jbpksz/Gradient-Banner-3.jpg)
 
 # About Me
-🤗 Greetings! I'm Junayed Noman, a Front-end developer with proven skills in crafting seamless user experiences. Working for 1 year in the web sector(with HTML, CSS, and Bootstrap). Recently, I had the opportunity to master the MERN stack. Driven to build responsive and dynamic web interfaces with MERN stack technologies.
+🤗 Greetings! I'm Junayed Noman, a Front-end developer with proven skills in crafting seamless user experiences. Working for 1+ years in the web sector(with HTML, CSS, and Bootstrap). Recently, I had the opportunity to master the MERN stack. Driven to build responsive and dynamic web interfaces with MERN stack technologies.
 
 Applied expertise in HTML, CSS, and Bootstrap to deliver front-end solutions during a one-year freelance for diverse clients internationally. Collaborated closely with clients to understand and fulfill their unique design requirements.
 
