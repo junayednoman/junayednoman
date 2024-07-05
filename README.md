@@ -9,15 +9,15 @@ Currently, I am learning new technologies to become a proficient MERN stack deve
 
 ### 💪Key strengths:
 
-➡️ **Solid foundation**: `HTML`, `CSS`, `Javascript`
+➡️ **Vanilla CSS**: Experienced with vanilla HTML and CSS
 
 ➡️ **Strong design sense**: As a front-end developer, I have a strong design sense
 
 ➡️ **Team Player**: I can work seamlessly with designers & back-end devs
 
-➡️ **Clean code warrior**: My code is efficient, readable, and accessible
+➡️ **Clean coder**: My code is efficient, readable, and accessible
 
-➡️ **Always learning**: I'm eager to explore new technologies and stay ahead of the curve
+➡️ **Curious Learner**: I'm eager to explore new technologies and stay ahead of the curve
 
 
 🤝 Collaborative by nature, I bring a thoughtful and communicative approach to team projects. Aiming to contribute to innovative projects at a company making waves.
