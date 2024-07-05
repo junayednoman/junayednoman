@@ -1,17 +1,19 @@
 ![Tux, the Linux mascot](https://i.postimg.cc/j2jbpksz/Gradient-Banner-3.jpg)
 
 # About Me
-🤗 Greetings! I'm Junayed Noman, a Front-end developer with proven skills in crafting seamless user experiences. Working for 1+ years in the web sector(with HTML, CSS, and Bootstrap). Recently, I had the opportunity to master the MERN stack. Driven to build responsive and dynamic web interfaces with MERN stack technologies.
+At the end of 2021, I began my journey with HTML and CSS, expanding into Bootstrap, PHP, and MySQL. I freelanced with these skills until June 2023. During the freelance period, I have worked with raw HTML and CSS. Then I started learning JavaScript-based front-end and basic back-end development in July 2023.
 
-Applied expertise in HTML, CSS, and Bootstrap to deliver front-end solutions during a one-year freelance for diverse clients internationally. Collaborated closely with clients to understand and fulfill their unique design requirements.
+Afterward, I collaborated on some contractual projects. In particular, I got an opportunity to develop a ‘data collection system’ for around 200 primary schools that won first place in a divisional competition of the primary education department. That significantly enhanced my skills. These two projects were a blessing for me. I have learned such knowledge that I couldn’t learn without working on a real-world project.
+
+Currently, I am learning new technologies to become a proficient MERN stack developer.
 
 ### 💪Key strengths:
 
 ➡️ **Solid foundation**: `HTML`, `CSS`, `Javascript`
 
-➡️ **Responsive design**: I build websites that look great on any device
+➡️ **Strong design sense**: As a front-end developer, I have a strong design sense
 
-➡️ **Collaboration ninja**: I can work seamlessly with designers & back-end devs
+➡️ **Team Player**: I can work seamlessly with designers & back-end devs
 
 ➡️ **Clean code warrior**: My code is efficient, readable, and accessible
 
