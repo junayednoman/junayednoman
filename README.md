@@ -3,7 +3,7 @@
 # My Journey
 At the end of 2021, I began my journey with HTML and CSS, expanding into Bootstrap, PHP, and MySQL. I freelanced with these skills until June 2023. During the freelance period, I have worked with raw HTML and CSS. Then I started learning JavaScript-based front-end and basic back-end development in July 2023.
 
-Afterward, I collaborated on some contractual projects. In particular, I got an opportunity to develop a ‘data collection system’ for around 200 primary schools that won first place in a divisional competition of the primary education department. That significantly enhanced my skills. These two projects were a blessing for me. I have learned such knowledge that I couldn’t learn without working on a real-world project.
+Afterward, I collaborated on some contractual projects. In particular, I got an opportunity to develop a ‘data collection system’ for around 200 primary schools that won first place in a divisional competition of the primary education department. That significantly enhanced my skills. These projects were a blessing for me. I have learned such knowledge that I couldn’t learn without working on a real-world project.
 
 Currently, I am learning new technologies to become a proficient MERN stack developer.
 
