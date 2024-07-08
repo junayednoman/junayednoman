@@ -5,8 +5,6 @@ At the end of 2021, I began my journey with HTML and CSS, expanding into Bootstr
 
 Afterward, I collaborated on some contractual projects. In particular, I got an opportunity to develop a ‘data collection system’ for around 200 primary schools that won first place in a divisional competition of the primary education department. That significantly enhanced my skills. These projects were a blessing for me. I have learned such knowledge that I couldn’t learn without working on a real-world project.
 
-Currently, I am learning new technologies to become a proficient MERN stack developer.
-
 ### 💪Key strengths:
 
 ➡️ **Vanilla CSS**: Experienced with vanilla HTML and CSS
@@ -19,8 +17,15 @@ Currently, I am learning new technologies to become a proficient MERN stack deve
 
 ➡️ **Curious Learner**: I'm eager to explore new technologies and stay ahead of the curve
 
+To be a confident MERN stack developer, currently I am learning the following technologies🌐:
+ ✅ Typescript
+ ✅ Mongoose
+ ✅ Express.js
+ ✅ Redux
+ ✅ Next.js
+ ✅ Back-end architecture design
 
-🤝 Collaborative by nature, I bring a thoughtful and communicative approach to team projects. Aiming to contribute to innovative projects at a company making waves.
+ and more...
 
 # Technologies I am expert in
 [![GitHub Streak](https://i.postimg.cc/0jqgptLG/Untitled-design-2.png)](#)
@@ -35,12 +40,6 @@ Currently, I am learning new technologies to become a proficient MERN stack deve
 </p>
 
 **Email**: junayednoman05@gmail.com
-
-
-# 👀 Current Overview
-- 🔭 I’m currently working on my own project
-- 🌱 I’m currently learning `next.js`
-- 👯 I’m looking for job opportunities as a Front-end developer
 
 # Some Numbers
 
