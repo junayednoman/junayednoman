@@ -1,5 +1,3 @@
-![Tux, the Linux mascot](https://i.postimg.cc/j2jbpksz/Gradient-Banner-3.jpg)
-
 # My Journey
 At the end of 2021, I began my journey with HTML and CSS, expanding into Bootstrap, PHP, and MySQL(basic). I freelanced with these skills until June 2023. During the freelance period, I have worked with raw HTML and CSS. Then I started learning JavaScript-based front-end and basic back-end development in July 2023.
 
@@ -18,6 +16,7 @@ Afterward, I collaborated on some contractual projects. In particular, I had the
 ➡️ **Curious Learner**: I'm eager to explore new technologies and stay ahead of the curve
 
 To be a confident MERN stack developer, currently I am learning the following technologies🌐:
+
  ✅ Typescript
  
  ✅ Mongoose
