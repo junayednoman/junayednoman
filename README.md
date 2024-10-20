@@ -39,7 +39,7 @@ Afterward, I collaborated on some contractual projects. In particular, I had the
 <img alt="badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-# Reach Me On:
+## Reach Me
 <p style="padding: 40px 0;">
   <a href="https://www.facebook.com/JunayedNoman.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/junayed-noman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
