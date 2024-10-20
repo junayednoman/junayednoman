@@ -1,5 +1,5 @@
 ![junayed noman](https://i.ibb.co.com/F32TMyt/junayed-noman.jpg)
-<p>I have a solid foundation in the MERN stack, building dynamic and scalable applications. Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges.</p>
+I have a solid foundation in the MERN stack, building dynamic and scalable applications. Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges
 
 ## 📈 Important stats
 ![junayednoman's Stats](https://github-readme-stats.vercel.app/api?username=junayednoman&theme=default&show_icons=true&hide_border=false&count_private=true)
@@ -9,9 +9,11 @@
 ![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ## 💫 About me
-I began my tech journey in 2021 with HTML and CSS, quickly expanding into Bootstrap, PHP, and basic MySQL. After two years of freelancing, I shifted my focus to the MERN stack in mid-2023, diving into JavaScript-based front-end and back-end development.
+I began my tech journey in 2022 with HTML and CSS, and Bootstrap. After 1+ years of freelancing, I shifted my focus to the MERN stack in mid-2023, diving into JavaScript-based front-end and back-end development.
 
 I collaborated on several impactful projects, notably a ‘data collection system’ for 200 primary schools, which won first place in a divisional competition by the primary education department, enhancing my technical skills.
+
+ Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges.
 
 ## 🧑‍💻 I code with
 <p>
