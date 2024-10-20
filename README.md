@@ -1,12 +1,9 @@
 ![junayed noman](https://i.ibb.co.com/F32TMyt/junayed-noman.jpg)
 
 ## 📈 Important stats
-![junayednoman's Stats](https://github-readme-stats.vercel.app/api?username=junayednoman&theme=default&show_icons=true&hide_border=false&count_private=true)
-
 ![junayednoman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=junayednoman&theme=default&hide_border=false)
 
 ![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=false&layout=compact)
-
 
 ## 💫 My Story
 At the end of 2021, I began my journey with HTML and CSS, expanding into Bootstrap, PHP, and MySQL(basic). I freelanced with these skills till June 2023. During the freelance period, I have worked with raw HTML and CSS. Then I started learning JavaScript-based front-end and basic back-end development in July 2023.
@@ -41,6 +38,8 @@ Afterward, I collaborated on some contractual projects. In particular, I had the
 <img alt="badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+
+![junayednoman's Stats](https://github-readme-stats.vercel.app/api?username=junayednoman&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 ## Reach Me
 <p style="padding: 40px 0;">
