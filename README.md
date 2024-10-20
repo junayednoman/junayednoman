@@ -1,11 +1,11 @@
 ![junayed noman](https://i.ibb.co.com/F32TMyt/junayed-noman.jpg)
 
 ## 📈 Important stats
-![junayednoman's Stats](https://github-readme-stats.vercel.app/api?username=junayednoman&theme=default&show_icons=true&hide_border=true&count_private=true)
+![junayednoman's Stats](https://github-readme-stats.vercel.app/api?username=junayednoman&theme=default&show_icons=true&hide_border=false&count_private=true)
 
-![junayednoman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=junayednoman&theme=default&hide_border=true)
+![junayednoman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=junayednoman&theme=default&hide_border=false)
 
-![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=true&layout=compact)
+![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 
 ## 💫 My Story
