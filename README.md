@@ -1,4 +1,4 @@
-![junayed noman](https://i.ibb.co.com/M6wGvmP/junayed-noman.jpg)
+![junayed noman](https://i.ibb.co.com/kBzw0Bx/junayed-noman.jpg)
 
 ## 📈 Some Numbers 
 
