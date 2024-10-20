@@ -1,4 +1,5 @@
 ![junayed noman](https://i.ibb.co.com/F32TMyt/junayed-noman.jpg)
+<p>I have a solid foundation in the MERN stack, building dynamic and scalable applications. Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges.</p>
 
 ## 📈 Important stats
 ![junayednoman's Stats](https://github-readme-stats.vercel.app/api?username=junayednoman&theme=default&show_icons=true&hide_border=false&count_private=true)
@@ -7,10 +8,10 @@
 
 ![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-## 💫 My Story
-At the end of 2021, I began my journey with HTML and CSS, expanding into Bootstrap, PHP, and MySQL(basic). I freelanced with these skills till June 2023. During the freelance period, I have worked with raw HTML and CSS. Then I started learning JavaScript-based front-end and basic back-end development in July 2023.
+## 💫 About me
+I began my tech journey in 2021 with HTML and CSS, quickly expanding into Bootstrap, PHP, and basic MySQL. After two years of freelancing, I shifted my focus to the MERN stack in mid-2023, diving into JavaScript-based front-end and back-end development.
 
-Afterward, I collaborated on some contractual projects. In particular, I had the opportunity to develop a ‘data collection system’ for around 200 primary schools that won first place in a divisional competition of the primary education department. That significantly enhanced my skills. These projects were a blessing for me. I have learned such knowledge that I couldn’t learn without working on such real-world project.
+I collaborated on several impactful projects, notably a ‘data collection system’ for 200 primary schools, which won first place in a divisional competition by the primary education department, enhancing my technical skills.
 
 ## 🧑‍💻 I code with
 <p>
