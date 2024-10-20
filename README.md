@@ -1,8 +1,11 @@
 ![junayed noman](https://i.ibb.co.com/F32TMyt/junayed-noman.jpg)
 
-## 📈 Some Numbers 
+## 📈 Important stats
+![junayednoman's Stats](https://github-readme-stats.vercel.app/api?username=junayednoman&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=junayednoman)](#)
+![junayednoman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=junayednoman&theme=default&hide_border=true)
+
+![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 
 ## 💫 My Story
