@@ -1,4 +1,4 @@
-![junayed noman](https://i.ibb.co.com/Nx5fS7Q/junayed-noman.jpg)
+![junayed noman](https://i.ibb.co.com/M6wGvmP/junayed-noman.jpg)
 
 ## 📈 Some Numbers 
 
@@ -10,7 +10,7 @@ At the end of 2021, I began my journey with HTML and CSS, expanding into Bootstr
 
 Afterward, I collaborated on some contractual projects. In particular, I had the opportunity to develop a ‘data collection system’ for around 200 primary schools that won first place in a divisional competition of the primary education department. That significantly enhanced my skills. These projects were a blessing for me. I have learned such knowledge that I couldn’t learn without working on such real-world project.
 
-## Technologies I am expert in
+## 🧑‍💻 I code with
 <p>
 <img alt="badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="badge" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,9 +25,15 @@ Afterward, I collaborated on some contractual projects. In particular, I had the
 <img alt="badge" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img alt="badge" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="badge" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+<img alt="badge" src="	https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white" />
+<img alt="badge" src="https" />
+</p>
+
+## 🛠️ Tools I use
+<p>
+<img alt="badge" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="badge" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="badge" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img alt="badge" src="https" />
 </p>
 
 # Reach Me On:
