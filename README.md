@@ -4,7 +4,7 @@ I have a solid foundation in the MERN stack, building dynamic and scalable appli
 ## 📈 Important stats
 ![junayednoman's Stats](https://github-readme-stats.vercel.app/api?username=junayednoman&theme=default&show_icons=true&hide_border=false&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=junayednoman)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=junayednoman" alt="GitHub Streak" /></a>
 
 ![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=false&layout=compact)
 
