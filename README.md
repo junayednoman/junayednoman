@@ -9,11 +9,15 @@ I have a solid foundation in the MERN stack, building dynamic and scalable appli
 ![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ## 💫 About me
-I began my tech journey in 2022 with HTML and CSS, and Bootstrap. After 1+ years of freelancing, I shifted my focus to the MERN stack in mid-2023, diving into JavaScript-based front-end and back-end development.
+👋 Hi, I am a MERN Stack Developer with expertise in Typescript, Redux, Next Js, and Mongoose. My work spans from visually appealing front-end designs to robust and secure back-end systems. focusing on industry standards like JavaScript (ES6+) and RESTful APIs. I write code that is clean, organized, and scalable.
 
-I collaborated on several impactful projects, notably a ‘data collection system’ for 200 primary schools, which won first place in a divisional competition by the primary education department, enhancing my technical skills.
+🌱 I started my journey with HTML, CSS, and Bootstrap at the end of 2021. During this time, I freelanced using these skills until mid-2023, working primarily with raw HTML and CSS.
 
- Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges.
+💡In the middle of 2023, I started learning HTML, CSS, JavaScript (ES6+), React.js, and Tailwind CSS for responsive designs. I explored Firebase Authentication and gained foundational knowledge in Node.js, MongoDB, Express, and JWT.
+
+✨ A highlight of my journey was building a "data collection system" for around 200 primary schools, which won first place in a divisional competition by the primary education department! 🎉
+
+🚀 In 2024, I expanded my skills with TypeScript, Mongoose, Next.js, and Redux. With this skill set, I can build strong, secure, and industry-standard applications.
 
 ## 🧑‍💻 I code with
 <p>
