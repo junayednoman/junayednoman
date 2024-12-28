@@ -1,6 +1,7 @@
 <a href="https://junayednoman.vercel.app/" target="_blank">
 <img alt="junayed noman" src="https://i.postimg.cc/8Pr8qDKy/junayed-noman.png" />
 </a>
+
 I have a solid foundation in the MERN stack, building dynamic and scalable applications. Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges
 
 ## 📈 Important stats
