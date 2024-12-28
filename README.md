@@ -1,4 +1,4 @@
-![junayed noman](https://i.ibb.co.com/F32TMyt/junayed-noman.jpg)
+![junayed noman](https://i.postimg.cc/8Pr8qDKy/junayed-noman.png)
 I have a solid foundation in the MERN stack, building dynamic and scalable applications. Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges
 
 ## 📈 Important stats
