@@ -1,4 +1,5 @@
 ![junayed noman](https://i.postimg.cc/8Pr8qDKy/junayed-noman.png)
+
 I have a solid foundation in the MERN stack, building dynamic and scalable applications. Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges
 
 ## 📈 Important stats
@@ -8,7 +9,7 @@ I have a solid foundation in the MERN stack, building dynamic and scalable appli
 
 ![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-## 💫 About me
+## 💫 About me || <a href="https://www.facebook.com/JunayedNoman.me" target="_blank">Dev</a>
 👋 Hi, I am a MERN Stack Developer with expertise in Typescript, Redux, Next Js, and Mongoose. My work spans from visually appealing front-end designs to robust and secure back-end systems. focusing on industry standards like JavaScript (ES6+) and RESTful APIs. I write code that is clean, organized, and scalable.
 
 🌱 I started my journey with HTML, CSS, and Bootstrap at the end of 2021. During this time, I freelanced using these skills until mid-2023, working primarily with raw HTML and CSS.
