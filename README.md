@@ -18,8 +18,6 @@ I have a solid foundation in the MERN stack, building dynamic and scalable appli
 
 💡In the middle of 2023, I started learning HTML, CSS, JavaScript (ES6+), React.js, and Tailwind CSS for responsive designs. I explored Firebase Authentication and gained foundational knowledge in Node.js, MongoDB, Express, and JWT.
 
-✨ A highlight of my journey was building a "data collection system" for around 200 primary schools, which won first place in a divisional competition by the primary education department! 🎉
-
 🚀 In 2024, I expanded my skills with TypeScript, Mongoose, Next.js, and Redux. With this skill set, I can build strong, secure, and industry-standard applications.
 
 ## 🧑‍💻 I code with
