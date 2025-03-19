@@ -14,7 +14,7 @@ I have a solid foundation in the MERN stack, building dynamic and scalable appli
 ## 💫 About me || <a href="https://junayednoman.vercel.app/" target="_blank">Personal Portfolio</a>
 👋 Hi, I am a MERN Stack Developer with expertise in Typescript, Redux, Next Js, and Mongoose. My work spans from visually appealing front-end designs to robust and secure back-end systems. focusing on industry standards like JavaScript (ES6+) and RESTful APIs. I write code that is clean, organized, and scalable.
 
-🌱 I started my journey with HTML, CSS, and Bootstrap at the end of 2021. During this time, I freelanced using these skills until mid-2023, working primarily with raw HTML and CSS.
+🌱 I started my journey with HTML, CSS, and Bootstrap at the end of 2021. During this time, I worked primarily with raw HTML and CSS.
 
 💡In the middle of 2023, I started learning HTML, CSS, JavaScript (ES6+), React.js, and Tailwind CSS for responsive designs. I explored Firebase Authentication and gained foundational knowledge in Node.js, MongoDB, Express, and JWT.
 
