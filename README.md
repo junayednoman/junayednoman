@@ -2,7 +2,7 @@
 <img alt="junayed noman" src="https://i.postimg.cc/8Pr8qDKy/junayed-noman.png" />
 </a>
 
-I have a solid foundation in the MERN stack, building dynamic and scalable applications. Moving forward, I aim to master modern technologies like PostgreSQL, Prisma, GraphQL, Docker, and AWS to create secure, efficient, and future-proof solutions that address real-world challenges
+Programmer | Building with TypeScript, PostgreSQL, Prisma, Express, Mongoose & Next.js | Currently working as a Backend-focused Full Stack Developer | <a href="https://junayednoman.vercel.app/" target="_blank">Learn More here</a>
 
 ## 📈 Important stats
 ![junayednoman's Stats](https://github-readme-stats.vercel.app/api?username=junayednoman&theme=default&show_icons=true&hide_border=false&count_private=true)
@@ -12,13 +12,16 @@ I have a solid foundation in the MERN stack, building dynamic and scalable appli
 ![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=false&layout=compact)
 
 ## 💫 About me || <a href="https://junayednoman.vercel.app/" target="_blank">Personal Portfolio</a>
-👋 Hi, I am a MERN Stack Developer with expertise in Typescript, Redux, Next Js, and Mongoose. My work spans from visually appealing front-end designs to robust and secure back-end systems. focusing on industry standards like JavaScript (ES6+) and RESTful APIs. I write code that is clean, organized, and scalable.
+Full-Stack Developer focused on backend — currently building cool stuff at Spark Tech.
+Skilled in building scalable APIs, integrating complex systems, and keeping code clean & maintainable.
 
-🌱 I started my journey with HTML, CSS, and Bootstrap at the end of 2021. During this time, I worked primarily with raw HTML and CSS.
+Proud of my English skill.
 
-💡In the middle of 2023, I started learning HTML, CSS, JavaScript (ES6+), React.js, and Tailwind CSS for responsive designs. I explored Firebase Authentication and gained foundational knowledge in Node.js, MongoDB, Express, and JWT.
+Started my programming journey in 2023, working with:
+TypeScript, PostgreSQL, Prisma, Express.js, Mongoose, AWS, Next.js, Redux
 
-🚀 In 2024, I expanded my skills with TypeScript, Mongoose, Next.js, and Redux. With this skill set, I can build strong, secure, and industry-standard applications.
+Exploring cloud computing.
+Goal: Contribute to impactful projects and solve real-world problems.
 
 ## 🧑‍💻 I code with
 <p>
