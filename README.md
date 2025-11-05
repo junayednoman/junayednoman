@@ -78,10 +78,13 @@ Goal: Contribute to impactful projects and solve real-world problems.
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
-## Reach Me
-<p style="padding: 40px 0;">
-  <a href="https://www.facebook.com/JunayedNoman.me" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/junayed-noman/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/junayednoman" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:junayednoman05@gmail.com" target="_blank"><img src="	https://img.shields.io/badge/junayednoman05@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+## 🌐 Reach Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/junayed-noman-me/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://junayednoman.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
+
