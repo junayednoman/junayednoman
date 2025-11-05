@@ -79,7 +79,7 @@ Goal: Contribute to impactful projects and solve real-world problems.
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 
 ## 🌐 Reach Me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/junayed-noman-me/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
