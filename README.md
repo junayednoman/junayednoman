@@ -1,5 +1,5 @@
 <a href="https://junayednoman.vercel.app/" target="_blank">
-<img alt="junayed noman" src="https://i.postimg.cc/8Pr8qDKy/junayed-noman.png" />
+<img alt="junayed noman" src="https://i.postimg.cc/pVFnYY2D/Junayed-Noman.jpg" />
 </a>
 
 Programmer | Building with TypeScript, PostgreSQL, Prisma, Express, Mongoose & Next.js | Currently working as a Backend-focused Full Stack Developer | <a href="https://junayednoman.vercel.app/" target="_blank">Learn More here</a>
