@@ -11,7 +11,7 @@ Programmer | Building with TypeScript, PostgreSQL, Prisma, Express, Mongoose & N
 
 ![junayednoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junayednoman&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-## 💫 About me || <a href="https://junayednoman.vercel.app/" target="_blank">Personal Portfolio</a>
+## 💫 About me || <a href="https://junayednoman.vercel.app/" target="_blank">Portfolio Website</a>
 Full-Stack Developer focused on backend — currently building cool stuff at Spark Tech.
 Skilled in building scalable APIs, integrating complex systems, and keeping code clean & maintainable.
 
