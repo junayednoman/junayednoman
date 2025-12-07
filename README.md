@@ -87,4 +87,5 @@ Goal: Contribute to impactful projects and solve real-world problems.
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
+📧 Email: **junayednoman05@gmail.com**  
+📞 Phone: **+880 1815824138**
