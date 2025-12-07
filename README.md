@@ -13,11 +13,11 @@ Programmer | Building with TypeScript, PostgreSQL, Prisma, Express, Mongoose & N
 
 ## 💫 About me || <a href="https://junayednoman.vercel.app/" target="_blank">Portfolio Website</a>
 Full-Stack Developer focused on backend — currently building cool stuff at Spark Tech.
-Skilled in building scalable APIs, integrating complex systems, and keeping code clean & maintainable.
+Skilled in building APIs, integrating systems, and keeping code clean & maintainable.
 
 Proud of my English skill.
 
-Started my programming journey in 2023, working with:
+Started my programming journey in 2023, currently working with:
 TypeScript, PostgreSQL, Prisma, Express.js, Mongoose, AWS, Next.js, Redux
 
 Exploring cloud computing.
