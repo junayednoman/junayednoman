@@ -86,6 +86,7 @@ Goal: Contribute to impactful projects and solve real-world problems.
   <a href="https://junayednoman.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  📧 Email: <a href="mailto:junayednoman05@gmail.com">junayednoman05@gmail.com</a>  
+  <br />
+  📞 Phone: <a href="tel:+880 1815824138">+880 1815824138</a>
 </p>
-📧 Email: **junayednoman05@gmail.com**  
-📞 Phone: **+880 1815824138**
